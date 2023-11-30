@@ -1,0 +1,14 @@
+C:\Users\sapro\source\repos\ConsoleApplication1\MainApplication\bin\Debug\net8.0\MainApplication.exe
+C:\Users\sapro\source\repos\ConsoleApplication1\MainApplication\bin\Debug\net8.0\MainApplication.deps.json
+C:\Users\sapro\source\repos\ConsoleApplication1\MainApplication\bin\Debug\net8.0\MainApplication.runtimeconfig.json
+C:\Users\sapro\source\repos\ConsoleApplication1\MainApplication\bin\Debug\net8.0\MainApplication.dll
+C:\Users\sapro\source\repos\ConsoleApplication1\MainApplication\bin\Debug\net8.0\MainApplication.pdb
+C:\Users\sapro\source\repos\ConsoleApplication1\MainApplication\obj\Debug\net8.0\MainApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sapro\source\repos\ConsoleApplication1\MainApplication\obj\Debug\net8.0\MainApplication.AssemblyInfoInputs.cache
+C:\Users\sapro\source\repos\ConsoleApplication1\MainApplication\obj\Debug\net8.0\MainApplication.AssemblyInfo.cs
+C:\Users\sapro\source\repos\ConsoleApplication1\MainApplication\obj\Debug\net8.0\MainApplication.csproj.CoreCompileInputs.cache
+C:\Users\sapro\source\repos\ConsoleApplication1\MainApplication\obj\Debug\net8.0\MainApplication.dll
+C:\Users\sapro\source\repos\ConsoleApplication1\MainApplication\obj\Debug\net8.0\refint\MainApplication.dll
+C:\Users\sapro\source\repos\ConsoleApplication1\MainApplication\obj\Debug\net8.0\MainApplication.pdb
+C:\Users\sapro\source\repos\ConsoleApplication1\MainApplication\obj\Debug\net8.0\MainApplication.genruntimeconfig.cache
+C:\Users\sapro\source\repos\ConsoleApplication1\MainApplication\obj\Debug\net8.0\ref\MainApplication.dll
